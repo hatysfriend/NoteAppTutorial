@@ -1,0 +1,13 @@
+1. create-react-app note
+2. npm install @material-ui/core @material-ui/icons firebase react-quill
+3 . firebase->console->new project->web app->   
+
+
+
+
+quill ? : firebase<firestore
+
+[withStyles]
+//export default withStyles(injectCSS)(intoThisComponent)
+// and call  'const {classes} = this.props' in component
+// use classes as className={classes.cssVariable}
